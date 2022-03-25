@@ -93,7 +93,7 @@ def coseno(x):
 def tangente(x):
     for t in range(1, x+1):
         print(f"Tangente de {t}: {ma.tan(t):.2f}")
-    
+
     return "Listo!"
 
 
