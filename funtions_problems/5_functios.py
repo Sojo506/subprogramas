@@ -21,3 +21,4 @@ def asignar_calificaciones(notas):
 
 print()
 print(asignar_calificaciones(notas))
+
